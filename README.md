@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Sou uma estatístico e desenvolvedora de jogos 2D.</p>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
@@ -23,13 +19,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lamdinmarlene/lamdinmarlene/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lamdinmarlene/lamdinmarlene/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lamdinmarlene/lamdinmarlene/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
